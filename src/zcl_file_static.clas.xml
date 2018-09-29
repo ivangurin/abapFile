@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Ìåòîäû äëÿ ðàáîòû ñ ôàéëàìè</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+     <CMPNAME>GET_EXTENSION</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå ðàñøèðåíèÿ ôàéëà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+     <CMPNAME>GET_FILE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå íàèìåíîâàíèÿ ôàéëà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+     <CMPNAME>GET_MIME</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå mime òèïà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+     <CMPNAME>GET_NAME</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå íàèìåíîâàíèÿ ôàéëà áåç ðàñøèðåíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+     <CMPNAME>READ</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>×òåíèå ñîäåðæèìîãî ôàéëà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+     <CMPNAME>READ_FROM_SERVER</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>×òåíèå ñ ñåðâåðà ïðèëîæåíèé</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+     <CMPNAME>SAVE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ñîõðàíåíèå ñîäåðæèìîãî ôàéëà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+     <CMPNAME>SAVE_TO_SERVER</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ñîõðàíåíèå íà ñåðâåð ïðèëîæåíèé</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FILE_STATIC</CLSNAME>
+     <CMPNAME>SPLIT_PATH</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ðàçáèòü èìÿ ôàéëà íà ïóòü è èìÿ</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
